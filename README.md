@@ -35,7 +35,13 @@
     - 开发时可以每一个developer开一个新的branch完成任务；每个branch上修改的文件尽量不要交叉，任务完成之后再把 branc h给 merge 到 master / dev branch上
     - 也可以大家都在 master / dev branch上开发，获取代码时用 `git pull --rebase`，每个 dev 自行解决 conflict
 
-9. 当然，tech lead也是developers之一，所以也是要写码的
+9. 参加每周的 PM / Tech Lead Meeting
+    - 了解其他项目组的进度
+    - 了解社团重要 updates 并及时告知组员
+    - 在需要的时候汇报自己项目组的进度
+    - 技术上有疑问时可以趁此机会与其他Tech Lead们讨论
+
+10. 当然，tech lead也是developers之一，所以也是要写码的
 
 ## 脚注
 [跨服交流](https://zh.moegirl.org.cn/index.php?title=%E8%B7%A8%E6%9C%8D%E8%81%8A%E5%A4%A9&variant=zh-hans&mobileaction=toggle_view_desktop)：指交谈双方，不在同一语境下进行交流  
